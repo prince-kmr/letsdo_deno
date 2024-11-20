@@ -1,0 +1,163 @@
+[
+    {
+      "id": "1",
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "genre": "Fiction",
+      "year": 1960,
+      "summary": "A young girl growing up in the racially charged American South learns about justice, empathy, and human dignity."
+    },
+    {
+      "id": "2",
+      "title": "1984",
+      "author": "George Orwell",
+      "genre": "Dystopian",
+      "year": 1949,
+      "summary": "A bleak depiction of a totalitarian future under a regime that surveils and controls every aspect of life."
+    },
+    {
+      "id": "3",
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "genre": "Romance",
+      "year": 1813,
+      "summary": "A spirited young woman navigates social expectations and family obligations in search of true love."
+    },
+    {
+      "id": "4",
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "genre": "Classics",
+      "year": 1925,
+      "summary": "A mysterious millionaire's tragic pursuit of love and the American Dream during the Jazz Age."
+    },
+    {
+      "id": "5",
+      "title": "Moby-Dick",
+      "author": "Herman Melville",
+      "genre": "Adventure",
+      "year": 1851,
+      "summary": "The epic tale of a ship captain's obsessive quest to capture the elusive white whale, Moby Dick."
+    },
+    {
+      "id": "6",
+      "title": "War and Peace",
+      "author": "Leo Tolstoy",
+      "genre": "Historical Fiction",
+      "year": 1869,
+      "summary": "A sweeping novel that chronicles the lives of Russian nobility against the backdrop of the Napoleonic Wars."
+    },
+    {
+      "id": "7",
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "genre": "Fiction",
+      "year": 1951,
+      "summary": "The story of a disaffected teenage boy navigating the trials of adolescence and identity."
+    },
+    {
+      "id": "8",
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "genre": "Fantasy",
+      "year": 1937,
+      "summary": "A hobbit's adventure across Middle-earth in a quest to retrieve a treasure guarded by a dragon."
+    },
+    {
+      "id": "9",
+      "title": "Jane Eyre",
+      "author": "Charlotte Brontë",
+      "genre": "Romance",
+      "year": 1847,
+      "summary": "An orphaned governess finds love and uncovers dark secrets in the halls of Thornfield Hall."
+    },
+    {
+      "id": "10",
+      "title": "Crime and Punishment",
+      "author": "Fyodor Dostoevsky",
+      "genre": "Philosophical Fiction",
+      "year": 1866,
+      "summary": "The psychological journey of a man who commits murder and the torment he suffers as a result."
+    },
+    {
+      "id": "11",
+      "title": "The Odyssey",
+      "author": "Homer",
+      "genre": "Epic",
+      "year": -700,
+      "summary": "The ancient Greek epic tale of Odysseus's journey home following the Trojan War."
+    },
+    {
+      "id": "12",
+      "title": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "genre": "Fantasy",
+      "year": 1954,
+      "summary": "An epic adventure of a hobbit and his companions as they strive to destroy a powerful ring and save Middle-earth."
+    },
+    {
+      "id": "13",
+      "title": "A Tale of Two Cities",
+      "author": "Charles Dickens",
+      "genre": "Historical Fiction",
+      "year": 1859,
+      "summary": "A story of love, sacrifice, and redemption set against the turbulent times of the French Revolution."
+    },
+    {
+      "id": "14",
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "genre": "Science Fiction",
+      "year": 1932,
+      "summary": "A dystopian vision of a society driven by technology, genetic engineering, and total social control."
+    },
+    {
+      "id": "15",
+      "title": "The Divine Comedy",
+      "author": "Dante Alighieri",
+      "genre": "Epic Poetry",
+      "year": 1320,
+      "summary": "An allegorical journey through Hell, Purgatory, and Heaven guided by the poet Virgil and Dante's love, Beatrice."
+    },
+    {
+      "id": "16",
+      "title": "Frankenstein",
+      "author": "Mary Shelley",
+      "genre": "Gothic Fiction",
+      "year": 1818,
+      "summary": "A scientist's ambition leads him to create life, with devastating consequences for him and his creation."
+    },
+    {
+      "id": "17",
+      "title": "The Picture of Dorian Gray",
+      "author": "Oscar Wilde",
+      "genre": "Philosophical Fiction",
+      "year": 1890,
+      "summary": "A man trades his soul to retain his youth and beauty, as his portrait ages in his stead."
+    },
+    {
+      "id": "18",
+      "title": "Anna Karenina",
+      "author": "Leo Tolstoy",
+      "genre": "Literary Fiction",
+      "year": 1878,
+      "summary": "A tragic story of love, marriage, and societal expectations in imperial Russia."
+    },
+    {
+      "id": "19",
+      "title": "Dracula",
+      "author": "Bram Stoker",
+      "genre": "Gothic Horror",
+      "year": 1897,
+      "summary": "The classic horror tale of the vampire Count Dracula and his pursuit of power in Victorian England."
+    },
+    {
+      "id": "20",
+      "title": "The Brothers Karamazov",
+      "author": "Fyodor Dostoevsky",
+      "genre": "Philosophical Fiction",
+      "year": 1880,
+      "summary": "A philosophical novel exploring the lives and struggles of three brothers in a Russian family."
+    }
+  ]
+  
