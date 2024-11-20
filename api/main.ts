@@ -7,8 +7,16 @@
 //   console.log("Add 2 + 3 =", add(2, 3));
 // }
 
+// import { assertEquals } from "https://jsr.io/@std/assert/1.0.6/mod.ts";
+// import { add } from "./main.ts";
+
+// Deno.test(function addTest() {
+//   assertEquals(add(2, 3), 5);
+// });
+
+
 // Importing some console colors
-import { bold, cyan, green, yellow } from "jsr:@std/fmt@0.223/colors";
+import { bold, cyan, green, yellow } from "https://jsr.io/@std/fmt/0.223.0/colors.ts";
 
 import {
   Application,
@@ -38,7 +46,7 @@ const books = new Map<string, Book>();
 
 // CORS middleware
 const cors = async (context: Context, next: () => Promise<unknown>) => {
-  context.response.headers.set("Access-Control-Allow-Origin", "http://localhost:3000", ); // Allow requests from Next.js frontend
+  context.response.headers.set("Access-Control-Allow-Origin", "https://letsdo.ltd", ); // Allow requests from Next.js frontend
   context.response.headers.set("Access-Control-Allow-Methods", "GET, POST, PUT, DELETE, OPTIONS"); // Set allowed methods
   context.response.headers.set("Access-Control-Allow-Headers", "Content-Type, Authorization"); // Set allowed headers
 
@@ -52,7 +60,7 @@ const cors = async (context: Context, next: () => Promise<unknown>) => {
 // Function to load JSON data and populate a Map
 async function loadBooksData(): Promise<void> {
   try {
-    const data = await Deno.readTextFile("../data/simple_book.json");
+    const data = await Deno.readTextFile("./book_data.json");
     const jsonData = JSON.parse(data);
 
     jsonData.forEach((book: Book) => {
